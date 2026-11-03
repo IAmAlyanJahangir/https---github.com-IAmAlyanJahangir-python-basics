@@ -1,10 +1,16 @@
-x=int(input("input your marks:"))
-# for i in range(1,11):
-#     print("hello\n")
+for i in range(1,10):
+    print(i)
 
-if(x<=100&x>90):
-    print("woow you are passes ")
-elif(x<90&x>=80):
-    print("bgrade")
-elif(x<80):
-    print("fail")
+
+time=int(input("Enter the number of times you want to loop: "))
+
+for i in range(time):
+    a= int(input("Enter a number: "))
+    b= int(input("Enter another number: "))
+    c= input("Enter your operation: ")
+    if c=="+":
+        print(a+b)
+    elif c=="-":
+        print(a-b)
+    elif c=="*":
+        print(a*b)
