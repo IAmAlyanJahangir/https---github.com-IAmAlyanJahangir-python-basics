@@ -4,18 +4,24 @@
 
 A collection of my Python practice and assignment work.
 
-## My Python Work
+ ## My Python Work
 
-- Python basics and practice
-- Assignments and projects
+- Variables and data types
+- Printing output with `print()`
+- Getting user input with `input()`
+- Type conversion
+- Arithmetic and comparison operators
+- `if`, `elif`, and `else` conditions
+- `for` and `while` loops
+- Lists and list operations
+- Strings and string methods
+- Functions and parameters
+- Dictionaries and tuples
+- Basic error handling
+- Python practice exercises
+- Assignment projects
 
 ## Repository
 
 [View my Python Basics repository](https://github.com/IAmAlyanJahangir/https---github.com-IAmAlyanJahangir-python-basics)
-
-## Run a Python File
-
-Replace `filename.py` with the name of a Python file in this repository:
-
-```bash
-python filename.py
+  
