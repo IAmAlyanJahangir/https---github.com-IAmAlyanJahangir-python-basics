@@ -1,6 +1,6 @@
 # print("--------------------------String indexing--------------------------")
 
-# name="alyan j"
+# name="alyan jahangir"
 
  
 # print(name[5])
