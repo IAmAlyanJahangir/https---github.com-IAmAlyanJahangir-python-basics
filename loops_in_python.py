@@ -18,7 +18,6 @@
 # else:
 #     print("backtrack value have been ended")
 
-
 # # forloop
 # Name="Learning in Python"
 
@@ -50,9 +49,31 @@
 # loop control statement
 #  1. press statement
 #  for loop
-for i in range (5):
-    pass
+# for i in range (5):
+#     pass
 
 
-# while loop
+# # while loop
+# count =0
 
+# while count<=5 :
+#     if count==3:
+#         pass
+#     else:
+#         print(count)
+#     count+=1
+
+
+# break statement
+
+for i in range(5):
+    if i==3:
+        break
+    print(i)
+
+# continous statement
+
+for i in range(10):
+    if i==3:
+        continue
+    print(i)
